@@ -7,7 +7,7 @@
 
 🚀 **SOBRE A AW**  
 
-Gráfica, Agência e Soft House especializada em transformar ideias em realidade, criando soluções inovadoras, impactantes e personalizadas para nossos clientes. 
+Gráfica, Agência e Software House especializada em transformar ideias em realidade, criando soluções inovadoras, impactantes e personalizadas para nossos clientes. 
 Desenvolvemos sites, aplicativos e jogos, além de oferecer serviços de design, branding e gráficos.  
 
 ---
