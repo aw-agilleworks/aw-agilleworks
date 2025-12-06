@@ -7,7 +7,8 @@
 
 🚀 **SOBRE A AW**  
 
-Agência especializada focada em transformar ideias em realidade, criando soluções inovadoras, impactantes e personalizadas para nossos clientes. Desenvolvemos sites, aplicativos e jogos, além de oferecer serviços de design e branding.  
+Gráfica, Agência e Soft House especializada em transformar ideias em realidade, criando soluções inovadoras, impactantes e personalizadas para nossos clientes. 
+Desenvolvemos sites, aplicativos e jogos, além de oferecer serviços de design, branding e gráficos.  
 
 ---
 
@@ -16,7 +17,9 @@ Agência especializada focada em transformar ideias em realidade, criando soluç
 * **Web & Desktop**: Criamos soluções robustas e responsivas, desde websites modernos até sistemas desktop personalizados.  
 * **Apps & Games**: Desenvolvemos aplicativos móveis e jogos de divulgação para diversas plataformas.  
 * **Design & Branding**: Criamos identidades visuais marcantes, desde logos até materiais de marketing completos e impactantes.  
-* **Marketing Digital, Redes Sociais & SEO**: Implementamos estratégias para aumentar sua presença digital.  
+* **Marketing Digital, Redes Sociais & SEO**: Implementamos estratégias para aumentar sua presença digital.
+* **Gráficos**: Diversos itens impressos para sua marca, desde papelaria a todos os principais intens de marca impressos ou serigrafados.
+
 
 ---
 
